@@ -5,4 +5,14 @@ Machine Learning model which predicts the expenditure of a patient by using data
 Click [here](https://www.kaggle.com/yasserh/wine-quality-dataset) for Kaggle dataset.
 ## Factors used for analysis
 
-* 
+* Fixed acidity
+* Volatile acidity
+* Critic acid
+* Residual Sugar
+* Chlorides
+* Free Sulfur dioxide
+* Total sulfur dioxide
+* Density
+* PH
+* Sulphates
+* Alcohol
