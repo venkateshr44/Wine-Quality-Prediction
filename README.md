@@ -1,6 +1,6 @@
 # Wine-Quality-Prediction
 
-Machine Learning model which predicts the expenditure of a patient by using data and analysis it will predict the medical expenditure of a patient. It mainly uses Regression model for predicting the expenditure of a patient based on patient details.
+Machine Learning model which predicts the quality of a Wine by performing Exploratory Data Analysis it will predict the Quality of the Wine. It mainly uses Regression model for predicting the Quality of Wine based on factors given below.
 
 Click [here](https://www.kaggle.com/yasserh/wine-quality-dataset) for Kaggle dataset.
 ## Factors used for analysis
