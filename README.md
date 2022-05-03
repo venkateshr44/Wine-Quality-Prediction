@@ -1,6 +1,6 @@
 # Wine-Quality-Prediction
 
-Machine Learning model which predicts the quality of a Wine by performing Exploratory Data Analysis it will predict the Quality of the Wine. It mainly uses Regression model for predicting the Quality of Wine based on factors given below.
+Machine Learning model which predicts the quality of a Wine by performing the Exploratory Data Analysis. It mainly uses Regression model for predicting the Quality of Wine based on factors given below.
 
 Click [here](https://www.kaggle.com/yasserh/wine-quality-dataset) for Kaggle dataset.
 ## Factors used for analysis
